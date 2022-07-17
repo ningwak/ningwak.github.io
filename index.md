@@ -27,7 +27,7 @@ My research interests include automatic control, reinforcement learning, and the
   <br>
  	Implemented the driving behavior decision-making system based on one and multistep lookahead rollout in the simulation environment.
   <br>
-  [[Code](https://github.com/ningwak/highway-env-for-data-driven-simulation)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Code for environment](https://github.com/ningwak/highway-env-for-data-driven-simulation)] [[Code for the predictor](https://github.com/ningwak/RRB_without_centerlines)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
  
 
 
