@@ -29,5 +29,22 @@ My research interests include automatic control, reinforcement learning, and the
   <br>
   [[Code for environment](https://github.com/ningwak/highway-env-for-data-driven-simulation)] [[Code for the predictor](https://github.com/ningwak/RRB_without_centerlines)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
  
-
-
+- **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels**
+  <br>
+  **Ning Wang**, Weiqi Xu, William Obeng
+  <br>
+  Implemented a training paradigm named "co-teaching" for combating with noisy labels in the environment of PyTorch by maintaining two networks simultaneously to select potential clean data and feed each other to update.
+  <br>
+ 	Evaluated the implementation with noisy CIFAR-10 and Fashion MNIST to compare with other state-of-the-art method. 
+  <br>
+  [[Code](https://github.com/ningwak/DD2424-co-teaching-deep)] 
+  
+  - **ADRC based quadrotor control**
+  <br>
+  11/2019-06/2020 Zhejiang University, Bachelor’s thesis
+  <br>
+  Designed and implemented a quadrotor controller based on ADRC (auto disturbance rejection control) 
+  <br>
+ 	Carried out simulation experiments of aircraft hover control, angle control, trajectory tracking control and anti-interference control in MATLAB / Simulink environment. 
+  <br>
+  [[Code](https://github.com/ningwak/ADRC_quadrotor)] 
