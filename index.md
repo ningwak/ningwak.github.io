@@ -39,7 +39,7 @@ My research interests include automatic control, reinforcement learning, and the
   <br>
   [[Code](https://github.com/ningwak/DD2424-co-teaching-deep)] 
   
-  - **ADRC based quadrotor control**
+- **ADRC based quadrotor control**
   <br>
   11/2019-06/2020 Zhejiang University, Bachelor’s thesis
   <br>
